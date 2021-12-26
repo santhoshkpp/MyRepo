@@ -1,1 +1,2 @@
 Hi , first demo
+playing with git
